@@ -1,4 +1,4 @@
-## THIS README WORKS FOR THE LIVEFIRE LABS ONLY
+## THIS README WORKS FOR THE LIVEFIRE LABS ONLY - WORK IN PROGRESS NOT FINISHED
 
 The AKO Values file has been highly modified for our labs. Reference AVI Documention to Make it work for your setup
 
